@@ -27,7 +27,9 @@
 .App-link {
   color: #61dafb;
 }
-
+.container-fluid h1:first-child{
+  background:linear-gradient(to right,#fbbd61,#ec7532);
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
